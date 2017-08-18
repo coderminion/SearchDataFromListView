@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SearchDataFromListview</string>
+
+
+    <string-array name="television">
+        <item>Game of thrones</item>
+        <item>Avengers</item>
+        <item>Iron Man</item>
+        <item>Suits</item>
+        <item>Thor</item>
+        <item>Wonder Women</item>
+        <item>Superman</item>
+        <item>Captain America</item>
+        <item>Arrow</item>
+        <item>Civil War</item>
+        <item>Age of Ultron</item>
+        <item>Hulk</item>
+        <item>Ragnarok</item>
+        <item>Hercules</item>
+        <item>Fantastic Four</item>
+    </string-array>
+
+</resources>
